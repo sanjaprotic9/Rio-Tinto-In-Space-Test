@@ -1,13 +1,13 @@
-package com.rio_tinto;
+package com.example.Rio.Tinto.Final;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RioTintoApplication {
+public class RioTintoFinalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RioTintoApplication.class, args);
+		SpringApplication.run(RioTintoFinalApplication.class, args);
 	}
 
 }

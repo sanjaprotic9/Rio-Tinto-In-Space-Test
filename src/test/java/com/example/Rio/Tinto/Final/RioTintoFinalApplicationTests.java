@@ -1,10 +1,10 @@
-package com.rio_tinto;
+package com.example.Rio.Tinto.Final;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RioTintoApplicationTests {
+class RioTintoFinalApplicationTests {
 
 	@Test
 	void contextLoads() {
